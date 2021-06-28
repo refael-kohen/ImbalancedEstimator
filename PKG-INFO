@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: my_package.refael-kohen
+Version: 0.0.1
+Summary: A small example package
+Home-page: https://github.com/pypa/sampleproject
+Author: Refael Kohen
+Author-email: refael.kohen@gmail.com
+License: UNKNOWN
+Description: Python version
+        --------------
+        
+        This project is currently using Python 3.7
+        
+        Installation
+        ------------
+        
+        It is recommended to use **virtualenv** to create a clean python environment.
+        
+        To install my-package.refael-kohen, use **pip**:
+        
+            pip install my-package.refael-kohen
+        
+        Testing
+        -------
+        To run unit tests, use:
+        
+            nosetests
+        
+        Or:
+        
+            tox
+        
+        This suite includes both unit and more time-consuming integration tests
+        
+        
+        Execution
+        ---------
+        
+        The main script shipped with this project is **my_package_main.py**, see its options by running:
+        
+            my_package_main.py -h
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst

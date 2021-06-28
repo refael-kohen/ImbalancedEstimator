@@ -1,0 +1,5 @@
+# https://packaging.python.org/guides/using-manifest-in/
+include *.txt
+recursive-include *.txt
+global-exclude *.py[cod] # Exclude all files anywhere matching any of the listed patterns
+graft tests # Include all file under the directory tests
