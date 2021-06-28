@@ -8,7 +8,7 @@ requires = ['numpy', 'scikit-learn==0.24.2'] #==0.22.0
 setuptools.setup(
     # required
     name="ImbalancedEstimator.refael-kohen", # only contains letters, numbers, _ , and - (Does not have to be the same as package name)
-    version="0.0.1", # The format: N(.N)* for example: 0.9, 0.9.1 or X.YbN for beta version
+    version="0.0.2", # The format: N(.N)* for example: 0.9, 0.9.1 or X.YbN for beta version
     # optional
     author="Refael Kohen",
     author_email="refael.kohen@gmail.com",
